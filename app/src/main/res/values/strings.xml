@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="Heading1">Welcome</string>
+    <string name="Heading2">Tic Tac Toe</string>
+    <string name="grid">grid</string>
+    <string name="creator">Created by- Abhishek Mehra</string>
+</resources>
